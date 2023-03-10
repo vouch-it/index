@@ -10,3 +10,6 @@ Vouch IT project description
 # Backend
 * https://nodejs.org/en/
 * http://expressjs.com
+
+# iOS
+* https://docs.google.com/document/d/1z_IpgoEcm0C1boNo6s5tPWHlKWiaTGM5UYFjd_xQ_Kc/edit
